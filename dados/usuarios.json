@@ -1,0 +1,86 @@
+[
+    {
+        "nome": "Coordenador Padrão",
+        "usuario": "coord",
+        "senha": "$2b$12$zXkzeLSFoMDwSFcY63jva.4I4mJYCtbIE1LZs4ip/9PsQrP/limkG",
+        "perfil": "Coordenador"
+    },
+    {
+        "nome": "RAFAEL",
+        "usuario": "Rafa",
+        "senha": "$2b$12$9or.r/F8zeiekDWbEuth9uzI.HOoGEIe8Mx5XenNEjl8/Lw6M9ylS",
+        "perfil": "Professor"
+    },
+    {
+        "nome": "ALDRIANO",
+        "usuario": "aldri",
+        "senha": "$2b$12$.thNCRHtLr6mXUYRRE0uBuwOoQ6VjKoyV.dzPr6OSoT8QsMAbS0we",
+        "perfil": "Professor"
+    },
+    {
+        "nome": "JOAO PAULO",
+        "usuario": "Joao001",
+        "senha": "$2b$12$eu1iL6nA2NIP7ZLyNvyszubZKioyy0zrq3aNrnBZ6BVrizSYAFL.m",
+        "perfil": "Aluno"
+    },
+    {
+        "nome": "JULIO ALEXANDRE",
+        "usuario": "Julio",
+        "senha": "$2b$12$JzbEm25v96jXrjnJNZhK1e7jemG6y5SaRdSsTf8D1J/40qCTrmWSm",
+        "perfil": "Aluno"
+    },
+    {
+        "nome": "ALEXANDRE",
+        "usuario": "ale002",
+        "senha": "$2b$12$Hb9yRYG41sQr1KP1r.XZbOuk015KG/4lVxyd1DRhmaboo3nMDt8ri",
+        "perfil": "Aluno"
+    },
+    {
+        "nome": "JOSE ALGUSTO",
+        "usuario": "jose254",
+        "senha": "$2b$12$46qQ6QTZapU5yP61r5onqOAVoiMEKR.H/n4Ek/QgruEbfS5HNmtsy",
+        "perfil": "Aluno"
+    },
+    {
+        "nome": "CHALES OLIVEIRA DA SILVA",
+        "usuario": "Bronxs225",
+        "senha": "$2b$12$iIUNW4DcnPEbZdLtzIopm.KudMPZn3c9h431vM8uG7TxUW5xJf2Yy",
+        "perfil": "Aluno"
+    },
+    {
+        "nome": "ALEX PEREIRA POATAN ",
+        "usuario": "Poatan225",
+        "senha": "$2b$12$hL1rar2AwVnB7OH5GxeGNe7k6NXDvlIqjjD145VN5sPYQyjQzEQRK",
+        "perfil": "Aluno"
+    },
+    {
+        "nome": "ANDERSON DA SILVA ",
+        "usuario": "Anderson",
+        "senha": "$2b$12$zrtPx1xPwE2N3sLyfuhMWOVz5utTyDjQQHlULXSSg6Fiz/MzNlYzG",
+        "perfil": "Aluno"
+    },
+    {
+        "nome": "ILIA TOPURIA",
+        "usuario": "topuria",
+        "senha": "$2b$12$VkfvrmZIxm5GdY0FW7Tac.p5lMghly2CwRfix7TPCPK6TdjHnId3O",
+        "perfil": "Aluno"
+    },
+    {
+        "nome": "AMANDA NUNES",
+        "usuario": "nunes",
+        "senha": "$2b$12$zHIp9X5Osa89LwC07qQ6suxJaMNzMQmB.cb7234IG3Xf9eCPUsJ3G",
+        "perfil": "Aluno"
+    },
+    {
+        "nome": "RAFAEL PINHEIROS",
+        "usuario": "rafa",
+        "senha": "$2b$12$zkrfqBPQq5FupnNPbYJTUuOs9kBWIxhV5HHCK5HsCShwNUKZw9c7W",
+        "perfil": "Professor"
+    },
+    {
+        "nome": "JOBSON VIEIRO",
+        "usuario": "jobson",
+        "senha": "$2b$12$J/qAAkRfgMSl/iCoJiy3Q.22OdprHb0Ci25paY7nEpb1ppgcWi1O.",
+        "perfil": "Aluno"
+    }
+]

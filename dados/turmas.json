@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "ADS1P14",
+        "professor": "aldri",
+        "alunos": [
+            "Julio",
+            "ale002",
+            "Joao001",
+            "jose254",
+            "nunes",
+            "topuria"
+        ]
+    },
+    {
+        "nome": "ADS2P14",
+        "professor": "aldri",
+        "alunos": [
+            "Anderson",
+            "Poatan225",
+            "Bronxs225"
+        ]
+    },
+    {
+        "nome": "testes",
+        "professor": "aldri",
+        "alunos": [
+            "jobson"
+        ]
+    }
+]
